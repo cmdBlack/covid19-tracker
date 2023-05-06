@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Covid19Cases</string>
+    <string name="refresh">refresh</string>
+    <string name="background">background</string>
+    <string name="total">total</string>
+    <string name="death">death</string>
+    <string name="recovered">recovered</string>
+    <string name="philippines">philippines</string>
+    <string name="source">source</string>
+    <string name="world">world</string>
+    <string name="forward">forward</string>
+    <string name="back1">back1</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="usa">usa</string>
+    <string name="condolence">condolence</string>
+    <string name="china">china</string>
+    <string name="italy">italy</string>
+</resources>
